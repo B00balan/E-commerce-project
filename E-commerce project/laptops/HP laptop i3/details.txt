@@ -1,0 +1,14 @@
+Name:
+    HP Laptop 15,12th Gen Intel Core i3-1215U,15.6 inch(39.6 cm),FHD,Anti-Glare,8 GB DDR4,1 TB SSD,Windows 11,MSO,Dual Speakers,1.69 kg,Natural Silver,15s-fq5328TU
+
+Rate:
+    -24% ₹39,480
+
+   M.R.P.: ₹52,055.00
+
+about:
+   * Processor - Intel Core i3-1215U (up to 4.4 GHz with Intel Turbo Boost Technology, 10 MB L3 cache, 6 cores, 8 threads); Memory - 8 GB memory ; Storage - 1 TB PCIe NVMe M.2 SSD
+   * Display and Graphics: 39.6 cm (15.6") diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC| Graphics - Intel UHD Graphics
+   * Operating System & Preinstalled Software: Windows 11 Home Single Language; Microsoft Office
+   * Ports -1 USB Type-C 5Gbps signaling rate (supports data transfer only and does not support charging or external monitors); 2 USB Type-A 5Gbps signaling rate; 1 AC smart pin; 1 HDMI 1.4b; 1 headphone/microphone combo
+   * Other Features: HP True Vision 720p HD camera with temporal noise reduction and integrated dual array digital microphones|Networking: Realtek RTL8822CE802.11a/b/g/n/ac (2x2) Wi-Fi and Bluetooth 5 wireless card|Keyboard & Pointing Device: Full-size, natural silver keyboard with numeric keypad ;HP Imagepad with multi-touch gesture support |Battery: 3-cell, 41 Wh Li-ion Supports battery fast charge
