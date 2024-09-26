@@ -1,0 +1,18 @@
+Name:
+    Ben Martin Men's Relaxed Fit Jeans
+
+Rate:
+    -80% ₹499
+    M.R.P.: ₹2,499
+
+About:
+   * Department :Men
+   * Color:Dark Blue
+   * Material typeCotton
+   * LengthFull length
+   * StyleRelaxed
+   * Closure typeButton
+   * Occasion typeCasual
+   * Care instructionsDo not bleach, dry in shade
+   * Country of OriginIndia
+
